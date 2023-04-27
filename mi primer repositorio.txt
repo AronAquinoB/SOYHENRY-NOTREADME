@@ -1,0 +1,3 @@
+Aron Tobias Aquino Bocco
+Intentando aprender como usar git bash y git hub
+hola mundo
